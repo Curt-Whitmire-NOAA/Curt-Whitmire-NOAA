@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Curt-Whitmire-NOAA
 - 👀 I’m interested in spatial analysis of fisheries and related habitat information.
-- 🌱 I’m currently participating in the [Openscapes Champions Program] (https://www.openscapes.org/champions/)
+- 🌱 I’m currently participating in the [Openscapes Champions Program](https://www.openscapes.org/champions/)
 - 💞️ I’m looking to collaborate on geospatial data services and workflows.
 - 📫 You can reach me via Github or curt.whitmire@noaa.gov
 
